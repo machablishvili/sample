@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Info 08</string>
+    <string name="registration">რეგისტრაცია</string>
+    <string name="register">დარეგისტრირება</string>
+    <string name="login">შესვლა</string>
+    <string name="authentication">ავტორიზაცია</string>
+    <string name="email">ელ. ფოსტა</string>
+    <string name="first_name">სახელი</string>
+    <string name="last_name">გვარი</string>
+    <string name="password">პაროლი</string>
+    <string name="verify_password">გაიმეორეთ პაროლი</string>
+    <string name="next">შემდეგი</string>
+    <string name="phone_number">ტელეფონის ნომერი</string>
+    <string name="phone_numbers">ტელეფონის ნომრები</string>
+    <string name="with">ით</string>
+    <string name="send_code">კოდის გაგზავნა</string>
+    <string name="check">შემოწმება</string>
+    <string name="verify_explanation">მითითებულ ნომერზე მოგივათ ოთხნიშნა კოდი, რომელიც უნდა შეიყვანოთ ქვედა ველში</string>
+    <string name="verification_code">ვერიფიკაციის კოდი</string>
+
+    <string name="organizations">ორგანიზაციები</string>
+    <string name="transportation">ტრანსპორტი</string>
+    <string name="sales">ფასდაკლებები</string>
+    <string name="calendar">კალენდარი</string>
+    <string name="cities">ქალაქები</string>
+    <string name="exchange">ვალუტა</string>
+    <string name="exchange_rate">ვალუტა</string>
+    <string name="streets">ქუჩები/კოდები</string>
+    <string name="streets_codes">ქუჩები / კოდები</string>
+    <string name="streets_zip_codes">ქუჩები / ZIP კოდები</string>
+    <string name="billboard">აფიშა</string>
+    <string name="weather">ამინდი</string>
+
+    <string name="finish">დასრულება</string>
+
+    <string name="profile">პროფილი</string>
+    <string name="logout">გასვლა</string>
+    <string name="last_use">ბოლო გამოყენება</string>
+    <string name="frequency_of_use">გამოყენების სიხშირე</string>
+
+    <string name="favorite_modules">ფავორიტი მოდულები</string>
+    <string name="favorite_modules_explanation_text">გთხოვთ, მონიშნოთ 4 მოდული, რომლებსაც ყველაზე ხშირად გამოიყენებთ, რათა ნავიგაციაში უფრო ადვილად იყოს ხელმისაწვდომი</string>
+
+
+    <string name="passwords_do_not_match">პაროლები არ ემთხვევა</string>
+    <string name="first_name_required">სახელი სავალდებულო ველია</string>
+    <string name="last_name_required">გვარი სავალდებულო ველია</string>
+    <string name="password_min_length">შეიყვანეთ მინიმუმ 8-ნიშნა პაროლი</string>
+    <string name="email_is_required">ელ. ფოსტა სავალდებულო ველია</string>
+    <string name="enter_valid_email">გთხოვთ შეიყვანოთ სწორი ელ. ფოსტა</string>
+    <string name="phone_required">ტელეფონი სავალდებულო ველია</string>
+    <string name="verification_code_required">გთხოვთ შეიყვანოთ ვერიფიკაციის კოდი</string>
+    <string name="invalid_credentials">მონაცემები არასწორია</string>
+
+    <string name="food_and_entertainment">კვება, გართობა</string>
+    <string name="medicine_pharmacy">მედიცინა, ფარმაცია</string>
+    <string name="service">მომსახურება</string>
+    <string name="shopping_points">სავაჭრო ობიექტები</string>
+    <string name="sport_beauty">სპორტი, სილამაზე</string>
+    <string name="tourism_vacation">ტურიზმი, დასვენება</string>
+    <string name="other">სხვა</string>
+
+    <string name="day_offs">საერო</string>
+    <string name="church_day_offs">საეკლესიო</string>
+    <string name="list">სია</string>
+
+    <string name="for_city">საქალაქო</string>
+    <string name="citywide">საქალაქთაშორისო</string>
+    <string name="international">საერთაშორისო</string>
+    <string name="plan_route">მარშრუტის დაგეგმვა</string>
+
+
+    <string name="tbilisi">თბილისი</string>
+    <string name="saburtalo">საბურთალო</string>
+
+    <string name="cinema">კინო</string>
+    <string name="theatre">თეატრი</string>
+    <string name="concerts">კონცერტები</string>
+    <string name="night_fun">ღამის გართობა</string>
+    <string name="travel">მოგზაურობა</string>
+
+    <string name="national">ეროვნული</string>
+    <string name="commercial">კომერციული</string>
+    <string name="booth">ჯიხური</string>
+
+
+    <string name="code">კოდი</string>
+    <string name="buy">ყიდვა</string>
+    <string name="sell">გაყიდვა</string>
+    <string name="rate">კურსი</string>
+    <string name="bank">ბანკი</string>
+
+    <string name="hourly_prognosis">საათობრივი პროგნოზი</string>
+
+    <string name="current_time">მიმდინარე დრო</string>
+    <string name="postal_code">საფოსტო კოდი</string>
+    <string name="city_phone_code">ქალაქის სატელეფონო კოდი</string>
+    <string name="country_phone_code">ქვეყნის სატელეფონო კოდი</string>
+
+    <string name="batch_Text">თბილისი (1936 წლის 17 აგვისტომდე ტფილისი), ოფიციალურად სსიპ „ქალაქ თბილისის მუნიციპალიტეტი“ (ს/ნ. 204521794; რეგ. თარიღი — 4 იანვარი, 2007) — დედაქალაქი და მუნიციპალიტეტი საქართველოში; 1922–1936 წლებში ერთდროულად იყო ამიერკავკასიის სფსრ დედაქალაქი; მდებარეობს აღმოსავლეთ საქართველოში, თბილისის ქვაბულში, მდინარე მტკვრის ორივე სანაპიროზე, ზღვის დონიდან 380–600 მ სიმაღლეზე, ჩრდილოეთით ესაზღვრება საგურამოს ქედის სამხრეთი მთისწინეთი, აღმოსავლეთით — ივრის ზეგნის ჩრდილო-დასავლეთი მონაკვეთი, დასავლეთით და სამხრეთით კი — თრიალეთის ქედის განშტოებები. ქალაქს 502 კმ² ფართობი უჭირავს და 1.152 მილიონზე მეტი მცხოვრები ჰყავს.</string>
+
+
+    <string name="review">შეფასება</string>
+
+    <string name="open">ღიაა</string>
+    <string name="till_hour">საათამდე</string>
+
+    <string name="additional_details">დამატებითი დეტალები</string>
+    <string name="your">თქვენი</string>
+    <string name="rating">შეფასება</string>
+    <string name="subordinate_branches">დაქვემდებარებული ფილიალები</string>
+    <string name="similar_companies">მსგავსი კონპანიები</string>
+
+    <string name="working_hours">სამუშაო საათები</string>
+    <string name="menu">მენიუ</string>
+
+    <string name="organization_details">ორგანიზაციის დეტალები</string>
+    <string name="organization_type">ორგანიზაციის ტიპი</string>
+    <string name="time_founded">დაფუძნების დრო</string>
+    <string name="staff_size">თანამშრომლების რაოდენობა</string>
+    <string name="director_info">დირექტორის ინფორმაცია</string>
+    <string name="description">აღწერა</string>
+    <string name="organization_mobile_numbers">კორპორატიული მობილურები</string>
+    <string name="organization_insurance">კორპორატიული დაზღვევა</string>
+    <string name="map">რუკა</string>
+
+    <string name="result">შედეგი</string>
+    <string name="filter">ფილტრი</string>
+
+    <string name="sort">დალაგება</string>
+    <string name="by_distance">მანძილით</string>
+
+    <string name="judicial_status">იურიდიული სტატუსი</string>
+    <string name="organization_business">ორგანიზაციის საქმიანობა</string>
+    <string name="organization_region">ორგანიზაციის რეგიონი/უბანი</string>
+    <string name="organization_foundation_Date">ორგანიზაციის დაფუძნების თარიღი</string>
+    <string name="organization_staff_size">თანამშრომლების რაოდენობა</string>
+
+    <string name="select_time_range">აირჩიეთ დროის შუალედი</string>
+    <string name="from">-დან</string>
+    <string name="until">-მდე</string>
+
+    <string name="is_head_office">არის ჰედოფისი</string>
+    <string name="sale">ფასდაკლება</string>
+    <string name="website">ვებგვერდი</string>
+    <string name="director">დირექტორი</string>
+    <string name="additional_info">დამატებითი ინფორმაცია</string>
+    <string name="see_results">შედეგების ნახვა</string>
+    <string name="soon">მალე</string>
+    <string name="nullfy">განულება</string>
+    <string name="movie_theater">კინოთეატრი</string>
+
+    <string name="all">ყველა</string>
+    <string name="session_time">სეანსის დრო</string>
+    <string name="language">ენა</string>
+    <string name="price">ფასი</string>
+    <string name="movie_director">რეჟისორი</string>
+    <string name="starring">როლებში</string>
+    <string name="genre">ჟანრი</string>
+
+    <string name="georgian">ქართული</string>
+    <string name="english">ინგლისური</string>
+    <string name="russian">რუსული</string>
+
+
+    <string name="demo_min_label">Min</string>
+    <string name="demo_max_label">Max</string>
+
+
+    <string name="event_date_jan">იან</string>
+    <string name="event_date_feb">თებ</string>
+    <string name="event_date_mar">მარ</string>
+    <string name="event_date_apr">აპრ</string>
+    <string name="event_date_may">მაი</string>
+    <string name="event_date_jun">ივნ</string>
+    <string name="event_date_jul">ივლ</string>
+    <string name="event_date_aug">აგვ</string>
+    <string name="event_date_sep">სექ</string>
+    <string name="event_date_oct">ოქტ</string>
+    <string name="event_date_nov">ნოე</string>
+    <string name="event_date_dec">დეკ</string>
+
+    <string name="event_date_monday">ორშ</string>
+    <string name="event_date_tuesday">სამ</string>
+    <string name="event_date_wednesday">ოთხ</string>
+    <string name="event_date_thursday">ხუთ</string>
+    <string name="event_date_friday">პარ</string>
+    <string name="event_date_saturday">შაბ</string>
+    <string name="event_date_sunday">კვი</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

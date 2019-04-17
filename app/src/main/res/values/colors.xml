@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/green_main</color>
+    <color name="colorPrimaryDark">@color/pressed_green</color>
+    <color name="colorAccent">@color/dark</color>
+
+    <color name="background_grey">#f6f6f6</color>
+    <color name="white">#ffffff</color>
+    <color name="green_main">#42b947</color>
+    <color name="pressed_green">#369f3b</color>
+    <color name="dark">#2e2e2e</color>
+    <color name="transparent">#80FFFFFF</color>
+    <color name="transparent_dark">#CC49516F</color>
+    <color name="dark_purple">#49516F</color>
+    <color name="pressed_dark">#7f7e7e</color>
+    <color name="light_grey">#A4A8B7</color>
+    <color name="light_purple">#646b84</color>
+
+    <color name="yellow">#edd658</color>
+    <color name="pressed_yellow">#d0b314</color>
+
+    <color name="facebook_blue">#577ee8</color>
+    <color name="dark_facebook_blue">#2B4CA5</color>
+    <color name="orange">#e87157</color>
+    <color name="pressed_orange">#C75A42</color>
+
+    <color name="logo_background">#f0f0f0</color>
+    <color name="unselected_grey">#2C4251</color>
+
+    <color name="unselected_tab_dark_color">#707070</color>
+
+    <color name="grey">#E0E0E0</color>
+    <color name="devider_line_on_dark">#95989A</color>
+</resources>
+
+
+
